@@ -3,7 +3,7 @@ const meni=QuerySelector("meni");
 
 
 hamburger.addEventListener("click",() => {
-    hambburger.classList.toggle("active");
+    hambburger.classList.toggle("active");   
     meni.classList.toggle("active");    
 })                  
                                             /*listner ili liener*/
