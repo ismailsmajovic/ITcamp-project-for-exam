@@ -4,7 +4,7 @@ const meni=QuerySelector("meni");
 
 hamburger.addEventListener("click",() => {
     hambburger.classList.toggle("active");
-    meni.classList.toggle("active");
+    meni.classList.toggle("active");    
 })                  
                                             /*listner ili liener*/
 document.querySelectorAll("link").forEach(n =>n.
